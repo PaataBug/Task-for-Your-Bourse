@@ -4,7 +4,7 @@
 
 System OS: Windows 11
 
-WebBrowse: Chrome. Version 115.0.5790.98 (Official Build) (64-bit))
+WebBrowser: Chrome. Version 115.0.5790.98 (Official Build) (64-bit))
 
 # Task 1 - Exploratory Testing
 1.	Enter all the required information in the registration form.
