@@ -91,7 +91,7 @@ What  can be improved
 1.	The form does not make validation of email so I can just type something@something without domain and it will still process to registration
 2.	Also I can put symbols and numbers in names suchs as company name or surname or name
 3.	Fields can have maximized characters for example I can type unlimited amount of characters in fields and that’s not good
-4.	For phone you can make verification that enter phone number matches the country, (for now I can type whatever I want)
+4.	For phone you can make verification that entered phone number matches the country, (for now I can type whatever I want)
 5.	Yes, I am getting confirmation on email but it will be better to make verification also, before user can log in to account he should make a verification from email that he got from the website with verification link.
 6.	Registration could include progress bar for users to see how far along they are in the registration.
 7.	could include a link to the privacy policy and terms of service.
