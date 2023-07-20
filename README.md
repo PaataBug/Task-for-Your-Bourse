@@ -87,7 +87,7 @@ My thoughts about registration form
 3.	The reCAPTCHA is a good way to prevent bots from creating accounts.
 4.	The form is mobile friendly (I tried with chrome DevTools and it is responsive)
 
-What you can be improved
+What  can be improved
 1.	The form does not make validation of email so I can just type something@something without domain and it will still process to registration
 2.	Also I can put symbols and numbers in names suchs as company name or surname or name
 3.	Fields can have maximized characters for example I can type unlimited amount of characters in fields and that’s not good
