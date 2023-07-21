@@ -80,7 +80,7 @@ Expected Result: The user should not be able to create an account.
 |  Captcha Checkbox  |  Check Captcha | Captcha will be checked  |  Captcha is Checked |
 |  “Register” Button Click |  | The user can not register, and error message should be displayed below password field |  The user can not register, and error message is displayed below password field  |
 
-Task 5 – User Experience 
+# Task 4 – User Experience 
 My thoughts about registration form
 1.	The form is well-organized and easy to follow. The fields are clearly labeled, and the instructions are clear.
 2.	The error messages are clear and informative. They tell the user what went wrong and how to correct the error.
